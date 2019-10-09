@@ -4,11 +4,11 @@ These are codes for a series of challenges proposed by Ênfase Labs team of deve
 
 ## Overview
 
-These codes were developed in an Arch-based Linux O.S. using Python.
+These codes were developed at an Arch-based Linux O.S. using Python.
 
 ### Prerequisites
 
-You'll need to have Python installed at your computer. At a Arch-based system, it can be installed through the command: 
+You'll need to have Python installed at your computer. At an Arch-based system, it can be installed through the command: 
 ```
 # sudo pacman python3
 ```
